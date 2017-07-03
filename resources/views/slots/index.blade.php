@@ -39,7 +39,7 @@ View/Search Patients with Token Numbers
               <h3 class="box-title">Today's Appointments -- Dr. {{$s->user->name}}</h3>
               <div class="box-body">
               <div class="table-responsive">
-              <table class="table no-margin">
+              <table class="table no-margin text-center">
                 <thead>
                   <tr>
                     <th>Patient Name</th>
